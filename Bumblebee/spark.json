@@ -1,0 +1,12 @@
+{
+  "icons": [ "awesome-fonts"],
+  "separator": "",
+  "defaults": {
+    "fg": "#333333",
+    "bg": "#fcc800",
+"warning": {
+"fg": "#d4ad00",
+"bg": "#000000"
+    }
+  }
+}
