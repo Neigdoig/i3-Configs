@@ -8,6 +8,7 @@ The reason for it is because of a YouTube video that may have had the link to th
 2. autotiling, so you can use i3 as a dynamic tiler
 3. maim, the screenshot utility I use for screenshots with i3
 4. bumblebee-status, the bar I personally use for i3 as a drop-in replacement for i3status
+5. Iosevka fonts, a beautiful font family that's very popular
 
 ## How to install it
 In order to install it, just do
