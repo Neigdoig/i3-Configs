@@ -14,6 +14,8 @@ The reason for it is because of a YouTube video that may have had the link to th
 In order to install it, just do
 `git clone https://codeberg.org/Neigdoig/i3-Configs.git`
 
-Next, do `cp path/to/i3-Configs/name-of-config ~/.config/i3/config`
+Next, do `cp path/to/i3-Configs/Condigs/name-of-config ~/.config/i3/config`
 
-Afterwords, the i3 rices are available for you to use. Enjoy!
+After that, do `cp /path/to/i3-Configs/Bumblebee/name-of-config.json /path/to/bumblebee/status/themes/name-of-config.json" to add the corresponding Bumblebee Status theme.
+
+After all of that, the i3 rices are available for you to use. Enjoy!
