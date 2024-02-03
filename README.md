@@ -16,6 +16,6 @@ In order to install it, just do
 
 Next, do `cp path/to/i3-Configs/Condigs/name-of-config ~/.config/i3/config`
 
-After that, do `cp /path/to/i3-Configs/Bumblebee/name-of-config.json /path/to/bumblebee/status/themes/name-of-config.json" to add the corresponding Bumblebee Status theme.
+After that, do `cp /path/to/i3-Configs/Bumblebee/name-of-config.json /path/to/bumblebee/status/themes/name-of-config.json` to add the corresponding Bumblebee Status theme.
 
 After all of that, the i3 rices are available for you to use. Enjoy!
