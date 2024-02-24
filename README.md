@@ -9,6 +9,11 @@ The reason for it is because of a YouTube video that may have had the link to th
 3. bumblebee-status, the bar I personally use for i3 as a drop-in replacement for i3status
 5. Iosevka fonts, a beautiful font family that's very popular
 
+The reason I'm also doing this is because I want to help people out when they're setting up i3, especially with the RICEs that I had made inside of this repository. I'd recommend using NVChad (A Neovim build) in order to see the colors, as I use it too!
+
+## Contributions
+If you felt the desire to contribute to this repository, read CONTRIBUTIONS.md in order to understand how I'd recommend you do it. You should find this in this repository.
+
 ## How to install it
 In order to install it, just do
 `git clone https://codeberg.org/Neigdoig/i3-Configs.git`
