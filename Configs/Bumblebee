@@ -54,9 +54,6 @@ bindsym $mod+Return exec --no-startup-id gnome-terminal
 # kill focused window
 bindsym $mod+q kill
 
-#Screenshots
-bindsym Print exec NOW=$(date +%d-%b-%Y_%H-%M-%S) && maim --format png --select > ~/screenshots/screenshot_$NOW.png && xclip -selection clip -t image/png ~/screenshots/screenshot_$NOW.png
-
 #Start PCManFM
 bindsym $mod+ctrl+e exec --no-startup-id pcmanfm
 

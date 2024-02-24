@@ -6,15 +6,14 @@ The reason for it is because of a YouTube video that may have had the link to th
 
 1. pcmanfm, the file manager I use for i3
 2. autotiling, so you can use i3 as a dynamic tiler
-3. maim, the screenshot utility I use for screenshots with i3
-4. bumblebee-status, the bar I personally use for i3 as a drop-in replacement for i3status
+3. bumblebee-status, the bar I personally use for i3 as a drop-in replacement for i3status
 5. Iosevka fonts, a beautiful font family that's very popular
 
 ## How to install it
 In order to install it, just do
 `git clone https://codeberg.org/Neigdoig/i3-Configs.git`
 
-Next, do `cp path/to/i3-Configs/Condigs/name-of-config ~/.config/i3/config`
+Next, do `cp path/to/i3-Configs/Configs/name-of-config ~/.config/i3/config`
 
 After that, do `cp /path/to/i3-Configs/Bumblebee/name-of-config.json /path/to/bumblebee/status/themes/name-of-config.json` to add the corresponding Bumblebee Status theme.
 
